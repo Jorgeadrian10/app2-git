@@ -32,13 +32,6 @@
  
  <!-- <plugin name="cordova-plugin-geolocation" source="npm" />-->
   <!-- Third part plugins-->
-  
-  <!-- para accesar a paginas en internet -->
-  <allow-intent href="https://*/*"/>
-  <acces origin="htpps://*/*"/>
-  <allow-intent href="htpps://*/*"/>
-  <acces origin="htpp://*/*"/>
-  <plugin name="cordava-plugin-whitelist" source="npm"/>
  
   <!--colocar icono app -->
  
